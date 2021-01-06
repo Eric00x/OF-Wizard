@@ -259,7 +259,7 @@ Function OFSync
 	${If} ${Errors}
 		Abort "Update failed!"
 	${EndIf}
-	Goto +7
+	Goto +6
 	DetailPrint "Installing Open Fortress, this might take a while..."
 	DetailPrint "Press OK button in TortoiseSVN's window to continue"
 	ExecWait '"$1" /command:checkout /url:https://svn.openfortress.fun/svn/open_fortress /path:$0 /closeonend:0 /noui'
