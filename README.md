@@ -3,7 +3,7 @@
 
 Installs/Updates Open Fortress with relative ease. Required internet connection and Steam installed.
 #### You may have Team Fortress 2 / Source SDK 2013 Multiplayer / TortoiseSVN already installed, we won't install them instead.
-#### This wizard comes bundled with TortoiseSVN installers both 32 and 64-bi, so you don't need to download it. 
+#### This wizard comes bundled with TortoiseSVN installers both 32 and 64-bit, so you don't need to download it. 
 DEFAULT INSTALL PATH OF TortoiseSVN IS ON C DRIVE!!!
 
 ### Instructions
